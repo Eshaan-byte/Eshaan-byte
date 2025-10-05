@@ -1,117 +1,132 @@
-Hi there, I'm Eshaan Gupta 👋
-Show Image
-Show Image
-🚀 About Me
-I'm a Computer Science student at Victoria University, Sydney with a passion for building innovative solutions in blockchain technology, AI/ML, and full-stack development. I thrive on solving complex problems and creating decentralized applications that make a difference.
+# Hi there, I'm Eshaan Gupta 👋  
 
-🔭 Currently working on @QoraNet & @QoraFi - Building the future of decentralized finance
-🌱 Learning advanced Rust, Solidity, and Zero-Knowledge Proofs
-💡 Interested in DeFi, AI-powered automation, and blockchain infrastructure
-📍 Based in Chippendale, Sydney, Australia
-📫 Reach me: eshaan28gupta@gmail.com | 📞 0430617523
+🚀 **About Me**  
+I'm a Computer Science student at Victoria University, Sydney with a passion for building innovative solutions in **blockchain technology**, **AI/ML**, and **full-stack development**.  
+I thrive on solving complex problems and creating decentralized applications that make a difference.  
 
-💻 Tech Stack
-Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Frameworks & Libraries
-Show Image
-Show Image
-Show Image
-Show Image
-Tools & Technologies
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-🔥 Featured Projects
-🌐 QoraNet - Blockchain Platform
-Decentralized platform built with Rust and Solidity for secure blockchain applications and smart contracts.
+🔭 Currently working on **[@QoraNet](#)** & **[@QoraFi](#)** – Building the future of decentralized finance  
+🌱 Learning advanced **Rust**, **Solidity**, and **Zero-Knowledge Proofs**  
+💡 Interested in **DeFi**, **AI-powered automation**, and **blockchain infrastructure**  
+📍 Based in *Chippendale, Sydney, Australia*  
+📫 Reach me: **eshaan28gupta@gmail.com** | 📞 **0430617523**
 
-🔐 Smart contract development and security testing
-⚡ Backend integration and scalability optimization
-🤝 Distributed team collaboration using Agile methodologies
-📅 Jun 2025 - Present
+---
 
-💰 QoraFi IndexFund
-The world's first AI-powered, fully automated crypto index fund using institutional-grade liquidity analysis.
+## 💻 Tech Stack  
 
-🤖 AI/ML algorithms for predictive market intelligence
-💎 Built with Solidity for on-chain automation
-📈 Outperforms traditional investment strategies
+**Languages:**  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-🤖 ChatPDF - AI Document Q&A
-Web application enabling natural language interaction with PDF documents.
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-🧠 Integrated GPT-4 for accurate query parsing and responses
-📄 Upload PDFs and ask questions in plain English
-⚛️ Built with modern web technologies
+**Tools & Technologies:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
-🎬 Netflix Clone
-Full-featured streaming platform clone with dynamic routing and reusable components.
+---
 
-⚛️ React.js with component-based architecture
-🎥 Real-time data fetching from TMDB API
-📱 Fully responsive design
+## 🔥 Featured Projects  
 
-🎥 Movie Recommendation System
-Intelligent recommendation engine using collaborative filtering and content-based methods.
+### 🌐 QoraNet – Blockchain Platform  
+Decentralized platform built with **Rust** and **Solidity** for secure blockchain apps & smart contracts.  
+- 🔐 Smart contract development and testing  
+- ⚡ Backend integration & scalability optimization  
+- 🤝 Agile collaboration in a distributed team  
 
-🐍 Built with Python and Scikit-Learn
-📊 Data analysis and machine learning implementation
-🎯 Personalized movie suggestions
+📅 *Jun 2025 – Present*  
 
-💼 Experience
-🔷 Blockchain Developer @ QoraNet
-Jun 2025 - Present | Remote
+---
 
-Developing decentralized applications with Rust and Solidity
-Designing and testing smart contracts for secure blockchain transactions
-Backend integration and improving scalability of dApps
+### 💰 QoraFi IndexFund  
+The world’s first **AI-powered, fully automated crypto index fund**.  
+- 🤖 AI/ML algorithms for predictive market intelligence  
+- 💎 Solidity-based on-chain automation  
+- 📈 Outperforms traditional investment strategies  
 
-🔷 Full Stack Developer Intern @ AUSBiz Consultancy (ECA Bootcamp)
-Jan 2024 - Mar 2024 | Sydney, Australia
+---
 
-10-week intensive bootcamp focused on MERN stack development
-Built REST APIs, dynamic UIs, and MongoDB schemas
-Collaborated in Agile sprints with version control (Git)
+### 🤖 ChatPDF – AI Document Q&A  
+Web app enabling natural language interaction with PDFs.  
+- 🧠 Integrated **GPT-4** for query parsing  
+- 📄 Upload & chat with PDFs  
+- ⚛️ Built with modern web technologies  
 
-📊 GitHub Stats
-<div align="center">
-Show Image
-Show Image
-Show Image
-</div>
-🎓 Education
-Bachelor of Information Technology
-Victoria University, Sydney | 2023 - Present
-🎯 2025 Goals
+---
 
-✅ Contribute to major open-source blockchain projects
-🚀 Build and deploy production-ready DeFi applications
-🔬 Master advanced Zero-Knowledge Proof implementations
-🤖 Expand AI/ML expertise with real-world deployments
+### 🎬 Netflix Clone  
+Full-featured streaming platform clone.  
+- ⚛️ **React.js** component-based architecture  
+- 🎥 API integration with **TMDB**  
+- 📱 Fully responsive  
 
-💪 Strengths & Skills
-Soft Skills: Communication | Problem-Solving | Teamwork | Time Management | Leadership | Creative Thinking | Public Speaking
-Core Strengths: Confidence | Enthusiasm | Determination | Adaptability | Perseverance
-🤝 Let's Connect!
-<div align="center">
-Show Image
-Show Image
-Show Image
-</div>
+---
 
-<div align="center">
-⭐️ Building the decentralized future, one commit at a time ⭐️
-Show Image
-</div>
+### 🎥 Movie Recommendation System  
+AI-powered movie suggestion engine.  
+- 🐍 Built with **Python** + **Scikit-Learn**  
+- 📊 ML-based collaborative filtering  
+- 🎯 Personalized recommendations  
+
+---
+
+## 💼 Experience  
+
+🔷 **Blockchain Developer @ QoraNet**  
+📅 Jun 2025 – Present | Remote  
+- dApp development with Rust & Solidity  
+- Smart contract design & testing  
+- Backend scalability optimization  
+
+🔷 **Full Stack Developer Intern @ AUSBiz Consultancy (ECA Bootcamp)**  
+📅 Jan 2024 – Mar 2024 | Sydney  
+- MERN stack development (REST APIs, MongoDB schemas, React UIs)  
+- Agile collaboration with Git  
+
+---
+
+## 📊 GitHub Stats  
+
+![Eshaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eshaan-byte&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshaan-byte&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Eshaan-byte&theme=radical&hide_border=true)  
+
+---
+
+## 🎓 Education  
+🎓 Bachelor of Information Technology – Victoria University, Sydney (2023 – Present)  
+
+---
+
+## 🎯 2025 Goals  
+✅ Contribute to major open-source blockchain projects  
+🚀 Build & deploy production-ready DeFi applications  
+🔬 Master advanced ZK-Proof implementations  
+🤖 Expand AI/ML expertise  
+
+---
+
+## 💪 Strengths & Skills  
+
+**Soft Skills:** Communication | Problem-Solving | Teamwork | Time Management | Leadership | Creative Thinking | Public Speaking  
+**Core Strengths:** Confidence | Enthusiasm | Determination | Adaptability | Perseverance  
+
+---
+
+## 🤝 Let’s Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaan-gupta)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshaan-byte)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
+
+⭐️ *Building the decentralized future, one commit at a time* ⭐️  
