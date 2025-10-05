@@ -54,22 +54,6 @@ The world’s first **AI-powered, fully automated crypto index fund**.
 
 ---
 
-### 🤖 ChatPDF – AI Document Q&A  
-Web app enabling natural language interaction with PDFs.  
-- 🧠 Integrated **GPT-4** for query parsing  
-- 📄 Upload & chat with PDFs  
-- ⚛️ Built with modern web technologies  
-
----
-
-### 🎬 Netflix Clone  
-Full-featured streaming platform clone.  
-- ⚛️ **React.js** component-based architecture  
-- 🎥 API integration with **TMDB**  
-- 📱 Fully responsive  
-
----
-
 ### 🎥 Movie Recommendation System  
 AI-powered movie suggestion engine.  
 - 🐍 Built with **Python** + **Scikit-Learn**  
