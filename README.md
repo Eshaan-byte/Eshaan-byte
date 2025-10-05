@@ -1,11 +1,14 @@
+Hi there, I'm Eshaan Gupta 👋
+Show Image
+Show Image
 🚀 About Me
 I'm a Computer Science student at Victoria University, Sydney with a passion for building innovative solutions in blockchain technology, AI/ML, and full-stack development. I thrive on solving complex problems and creating decentralized applications that make a difference.
 
 🔭 Currently working on @QoraNet & @QoraFi - Building the future of decentralized finance
 🌱 Learning advanced Rust, Solidity, and Zero-Knowledge Proofs
 💡 Interested in DeFi, AI-powered automation, and blockchain infrastructure
-📍 Based in Sydney, Australia
-📫 Reach me: eshaan28gupta@gmail.com
+📍 Based in Chippendale, Sydney, Australia
+📫 Reach me: eshaan28gupta@gmail.com | 📞 0430617523
 
 💻 Tech Stack
 Languages
@@ -14,21 +17,19 @@ Show Image
 Show Image
 Show Image
 Show Image
-Frontend
 Show Image
 Show Image
-Show Image
-Backend & Blockchain
-Show Image
-Show Image
-Show Image
-AI/ML & Data
+Frameworks & Libraries
 Show Image
 Show Image
 Show Image
 Show Image
+Tools & Technologies
 Show Image
-Tools & Platforms
+Show Image
+Show Image
+Show Image
+Show Image
 Show Image
 Show Image
 Show Image
@@ -36,63 +37,81 @@ Show Image
 🌐 QoraNet - Blockchain Platform
 Decentralized platform built with Rust and Solidity for secure blockchain applications and smart contracts.
 
-Smart contract development and testing
-Backend integration and scalability optimization
-Distributed team collaboration using Agile methodologies
+🔐 Smart contract development and security testing
+⚡ Backend integration and scalability optimization
+🤝 Distributed team collaboration using Agile methodologies
+📅 Jun 2025 - Present
 
 💰 QoraFi IndexFund
-The world's first AI-powered, fully automated crypto index fund using institutional-grade liquidity analysis and predictive market intelligence.
+The world's first AI-powered, fully automated crypto index fund using institutional-grade liquidity analysis.
 
-Technologies: Solidity, AI/ML algorithms
-Outperforms traditional investment strategies through automation
+🤖 AI/ML algorithms for predictive market intelligence
+💎 Built with Solidity for on-chain automation
+📈 Outperforms traditional investment strategies
 
 🤖 ChatPDF - AI Document Q&A
 Web application enabling natural language interaction with PDF documents.
 
-Integrated GPT-4 for accurate query parsing and responses
-Built with modern web technologies for seamless user experience
+🧠 Integrated GPT-4 for accurate query parsing and responses
+📄 Upload PDFs and ask questions in plain English
+⚛️ Built with modern web technologies
 
 🎬 Netflix Clone
 Full-featured streaming platform clone with dynamic routing and reusable components.
 
-Technologies: React.js, TMDB API
-Implemented responsive design and real-time data fetching
+⚛️ React.js with component-based architecture
+🎥 Real-time data fetching from TMDB API
+📱 Fully responsive design
 
 🎥 Movie Recommendation System
 Intelligent recommendation engine using collaborative filtering and content-based methods.
 
-Technologies: Python, Scikit-Learn
-Data analysis and machine learning implementation
+🐍 Built with Python and Scikit-Learn
+📊 Data analysis and machine learning implementation
+🎯 Personalized movie suggestions
 
-📊 GitHub Stats
-Show Image
-Show Image
-Show Image
-💼 Experience Highlights
-
-QoraNet - Blockchain Developer (Jun 2025 - Present)
+💼 Experience
+🔷 Blockchain Developer @ QoraNet
+Jun 2025 - Present | Remote
 
 Developing decentralized applications with Rust and Solidity
-Smart contract design and security implementation
+Designing and testing smart contracts for secure blockchain transactions
+Backend integration and improving scalability of dApps
 
-
-AUSBiz Consultancy (ECA Bootcamp) - Full Stack Developer Intern (Jan 2024 - Mar 2024)
+🔷 Full Stack Developer Intern @ AUSBiz Consultancy (ECA Bootcamp)
+Jan 2024 - Mar 2024 | Sydney, Australia
 
 10-week intensive bootcamp focused on MERN stack development
-Built REST APIs, dynamic UIs, and database schemas in Agile environment
+Built REST APIs, dynamic UIs, and MongoDB schemas
+Collaborated in Agile sprints with version control (Git)
 
-
-
+📊 GitHub Stats
+<div align="center">
+Show Image
+Show Image
+Show Image
+</div>
+🎓 Education
+Bachelor of Information Technology
+Victoria University, Sydney | 2023 - Present
 🎯 2025 Goals
 
- Contribute to major open-source blockchain projects
- Build and deploy 3+ production-ready DeFi applications
- Master advanced Zero-Knowledge Proof implementations
- Expand AI/ML expertise with real-world deployments
+✅ Contribute to major open-source blockchain projects
+🚀 Build and deploy production-ready DeFi applications
+🔬 Master advanced Zero-Knowledge Proof implementations
+🤖 Expand AI/ML expertise with real-world deployments
 
+💪 Strengths & Skills
+Soft Skills: Communication | Problem-Solving | Teamwork | Time Management | Leadership | Creative Thinking | Public Speaking
+Core Strengths: Confidence | Enthusiasm | Determination | Adaptability | Perseverance
 🤝 Let's Connect!
+<div align="center">
 Show Image
 Show Image
 Show Image
+</div>
 
-⭐️ From blockmandev | Building the decentralized future, one commit at a time
+<div align="center">
+⭐️ Building the decentralized future, one commit at a time ⭐️
+Show Image
+</div>
