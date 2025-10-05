@@ -1,14 +1,12 @@
 # Hi there, I'm Eshaan Gupta 👋  
 
 🚀 **About Me**  
-I'm a Computer Science student at Victoria University, Sydney with a passion for building innovative solutions in **blockchain technology**, **AI/ML**, and **full-stack development**.  
+I'm a Computer Science student at Victoria University with a passion for building innovative solutions in **blockchain technology**, **AI/ML**, and **full-stack development**.  
 I thrive on solving complex problems and creating decentralized applications that make a difference.  
 
 🔭 Currently working on **[@QoraNet](#)** & **[@QoraFi](#)** – Building the future of decentralized finance  
 🌱 Learning advanced **Rust**, **Solidity**, and **Zero-Knowledge Proofs**  
 💡 Interested in **DeFi**, **AI-powered automation**, and **blockchain infrastructure**  
-📍 Based in *Chippendale, Sydney, Australia*  
-📫 Reach me: **eshaan28gupta@gmail.com** | 📞 **0430617523**
 
 ---
 
