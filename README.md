@@ -1,6 +1,3 @@
-Hi there, I'm Eshaan Gupta 👋
-Show Image
-Show Image
 🚀 About Me
 I'm a Computer Science student at Victoria University, Sydney with a passion for building innovative solutions in blockchain technology, AI/ML, and full-stack development. I thrive on solving complex problems and creating decentralized applications that make a difference.
 
@@ -98,4 +95,4 @@ Show Image
 Show Image
 Show Image
 
-⭐️ From Eshaan-byte | Building the decentralized future, one commit at a time
+⭐️ From blockmandev | Building the decentralized future, one commit at a time
