@@ -73,7 +73,8 @@ AI-powered movie suggestion engine.
 🔷 **Full Stack Developer Intern @ AUSBiz Consultancy (ECA Bootcamp)**  
 📅 Jan 2024 – Mar 2024 | Sydney  
 - MERN stack development (REST APIs, MongoDB schemas, React UIs)  
-- Agile collaboration with Git  
+- Agile collaboration with Git
+- [![An image of @eshaanbyte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eshaanbyte)](https://holopin.io/@eshaanbyte)
 
 ---
 
